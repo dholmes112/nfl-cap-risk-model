@@ -1,0 +1,2 @@
+Team,rows,min_year,max_year,corr_dead_cap_pct_vs_wins,corr_risk_score_vs_wins,avg_wins,avg_dead_cap_pct,avg_risk_score_0_100,playoff_rate,restructure_proxy_rate,wins_model_slope,wins_model_rmse_test,wins_model_mae_test,playoff_auc_test
+buffalo-bills,8,2018,2025,-0.6040829294794744,-0.8927110297554641,11.125,0.18477927394409516,43.7475,0.875,0.0,-0.11778974545508718,1.0492757507497898,0.8676322772394341,
